@@ -67,12 +67,36 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.table_cell {
+}
+._流程形状 {
 }
 ._文本段落1 {
   text-align:left;
 }
 .icon {
+}
+.box_2 {
+}
+.shape {
+}
+.image {
+  color:#000000;
+}
+.paragraph {
+  text-align:left;
 }
