@@ -100,3 +100,14 @@
 .paragraph {
   text-align:left;
 }
+._一级标题1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._形状 {
+}
+._水平线 {
+}
