@@ -63,6 +63,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -87,6 +89,9 @@
 .table_cell {
 }
 .menu_item {
+}
+.sticky_1 {
+  text-align:left;
 }
 .sticky_3 {
   text-align:left;
