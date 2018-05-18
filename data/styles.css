@@ -80,6 +80,9 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .html_button {
   text-align:center;
 }
@@ -126,4 +129,10 @@
 ._形状 {
 }
 ._水平线 {
+}
+._图片1 {
+  color:#000000;
+}
+._文本段落2 {
+  text-align:left;
 }
